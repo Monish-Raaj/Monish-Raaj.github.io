@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Monish Raaj L - Full Stack Developer | Competitive Programmer</title>
+        <link>https://monish-raaj.github.io/</link>
+        <description>Monish Raaj L - Full Stack Developer | Competitive Programmer</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>monishraaj05@gmail.com (Monish Raaj L)</managingEditor>
+            <webMaster>monishraaj05@gmail.com (Monish Raaj L)</webMaster>
+            <atom:link href="https://monish-raaj.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
